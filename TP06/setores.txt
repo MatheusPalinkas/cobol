@@ -1,0 +1,5 @@
+1mercearia 
+2hortifruti
+3bebidas   
+4enlatados 
+5laticinios
