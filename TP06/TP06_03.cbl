@@ -29,7 +29,7 @@
            VALUE OF FILE-ID IS "C:\cobol\COTAHIST_M092023.TXT".
 
        01 REG-COTA.
-           05 FD-CAMPO-COTA             PIC X(245)             VALUE SPACES.
+           05 FD-CAMPO-COTA             PIC X(245)        VALUE SPACES.
 
        FD EXTRACAO
            LABEL RECORD IS STANDARD
