@@ -1,0 +1,945 @@
+
+
+                         Listagem de produtos                         página  1
+Código Descrição                                        Setor Estoque? Preço
+
+46247   Allspice - Jamaican                               2     Sim     $31,38
+21543   Appetiser - Bought                                4     Nã     $20,00
+66321   Appetizer - Spring Roll, Veg                      4     Nã     $44,97
+24114   Apple - Granny Smith                              4     Nã     $94,20
+63861   Apple - Macintosh                                 5     Sim     $22,61
+61937   Apple - Royal Gala                                4     Nã     $ 7,79
+87077   Apple - Royal Gala                                3     Sim     $41,73
+62713   Apples - Sliced / Wedge                           1     Nã     $71,59
+51568   Apricots - Dried                                  2     Sim     $22,88
+87487   Arctic Char - Fresh, Whole                        3     Sim     $93,58
+Total de valores listados                                             $ 450,73
+
+
+
+
+
+                         Listagem de produtos                         página  2
+Código Descrição                                        Setor Estoque? Preço
+
+68836   Aromat Spice / Seasoning                          4     Sim     $ 6,76
+47658   Artichokes - Knobless, White                      1     Sim     $71,67
+29203   Asparagus - Frozen                                5     Sim     $67,14
+17220   Asparagus - Frozen                                1     Nã     $ 1,01
+80663   Asparagus - Mexican                               2     Sim     $42,11
+92525   Bacardi Breezer - Strawberry                      4     Nã     $69,87
+57713   Bacardi Breezer - Tropical                        1     Sim     $78,23
+10016   Bag - Clear 7 Lb                                  4     Nã     $45,57
+65492   Bagel - 12 Grain Preslice                         3     Sim     $92,66
+38568   Bagel - Everything Presliced                      4     Sim     $30,63
+Total de valores listados                                             $ 505,65
+
+
+
+
+
+                         Listagem de produtos                         página  3
+Código Descrição                                        Setor Estoque? Preço
+
+28260   Bagel - Whole White Sesame                        4     Sim     $83,63
+41888   Banana                                            5     Nã     $92,38
+35217   Bar Mix - Lemon                                   1     Nã     $84,40
+59426   Bar Mix - Lime                                    2     Sim     $96,14
+23749   Basil - Fresh                                     2     Sim     $26,86
+45308   Basil - Thai                                      4     Nã     $21,09
+19781   Bay Leaf Fresh                                    4     Sim     $39,72
+48140   Beans - Black Bean, Preserved                     4     Sim     $ 1,19
+15187   Beans - Fine                                      3     Sim     $95,83
+23266   Beans - French                                    1     Sim     $75,90
+Total de valores listados                                             $ 617,14
+
+
+
+
+
+                         Listagem de produtos                         página  4
+Código Descrição                                        Setor Estoque? Preço
+
+01336   Beans - French                                    1     Sim     $22,46
+58914   Beans - French                                    1     Nã     $94,36
+62748   Beans - Kidney, Canned                            4     Nã     $61,27
+33227   Beef - Rib Roast, Cap On                          2     Nã     $ 8,15
+01879   Beef - Rouladin, Sliced                           2     Sim     $62,00
+54343   Beef - Salted                                     1     Sim     $82,29
+83964   Beef - Striploin                                  1     Nã     $24,69
+43202   Beef Ground Medium                                1     Nã     $84,05
+77810   Beef Wellington                                   4     Nã     $11,45
+11466   Beer - Blue Light                                 1     Sim     $13,36
+Total de valores listados                                             $ 464,08
+
+
+
+
+
+                         Listagem de produtos                         página  5
+Código Descrição                                        Setor Estoque? Preço
+
+11206   Beer - Guiness                                    3     Sim     $53,72
+03644   Beer - Mill St Organic                            5     Nã     $11,85
+01449   Beets                                             5     Nã     $ 8,74
+10673   Blackberries                                      4     Nã     $24,56
+61081   Blue Curacao - Marie Brizard                      3     Sim     $39,68
+28006   Boogies                                           3     Nã     $74,51
+90551   Bread - Assorted Rolls                            2     Nã     $37,27
+17701   Bread - Bagels, Mini                              3     Nã     $12,92
+93818   Bread - Bistro White                              4     Sim     $68,95
+84763   Bread - Corn Muffaletta                           4     Sim     $36,77
+Total de valores listados                                             $ 368,97
+
+
+
+
+
+                         Listagem de produtos                         página  6
+Código Descrição                                        Setor Estoque? Preço
+
+55925   Bread - Mini Hamburger Bun                        3     Sim     $63,41
+75754   Bread - Onion Focaccia                            4     Nã     $87,87
+00491   Bread - Raisin Walnut Pull                        4     Sim     $33,04
+52781   Bread - Roll, Whole Wheat                         1     Sim     $34,44
+36477   Bread - Wheat Baguette                            3     Sim     $61,62
+05834   Bread Base - Gold Formel                          3     Nã     $68,91
+51909   Bread Bowl Plain                                  2     Sim     $53,03
+83428   Bread Country Roll                                1     Nã     $59,46
+47939   Bread Cranberry Foccacia                          2     Nã     $79,18
+06106   Bread Roll Foccacia                               2     Sim     $34,42
+Total de valores listados                                             $ 575,38
+
+
+
+
+
+                         Listagem de produtos                         página  7
+Código Descrição                                        Setor Estoque? Preço
+
+03161   Bread Roll Foccacia                               3     Sim     $ 4,71
+04278   Bread Sour Rolls                                  2     Nã     $74,30
+22282   Broccoli - Fresh                                  1     Sim     $93,43
+46771   Butter Ripple - Phillips                          5     Nã     $ 2,14
+21126   Cake - Bande Of Fruit                             1     Nã     $17,42
+34178   Cake Circle, Paprus                               5     Nã     $63,79
+92805   Cakes Assorted                                    1     Nã     $22,79
+25531   Carbonated Water - Blackcherry                    4     Sim     $66,88
+04198   Carbonated Water - Cherry                         5     Nã     $23,37
+18879   Carbonated Water - Lemon Lime                     1     Nã     $43,41
+Total de valores listados                                             $ 412,24
+
+
+
+
+
+                         Listagem de produtos                         página  8
+Código Descrição                                        Setor Estoque? Preço
+
+99147   Carbonated Water - Raspberry                      4     Sim     $58,14
+86013   Carbonated Water - Wildberry                      5     Sim     $83,83
+28023   Cardamon Ground                                   5     Nã     $87,33
+41945   Champagne - Brights, Dry                          3     Nã     $75,67
+69297   Champagne - Brights, Dry                          4     Sim     $64,66
+26097   Cheese - Augre Des Champs                         2     Sim     $60,88
+98428   Cheese - Brie, Cups 125g                          2     Nã     $ 1,30
+90356   Cheese - Brie, Triple Creme                       3     Nã     $93,69
+17102   Cheese - Cheddar With Claret                      1     Nã     $98,09
+89791   Cheese - Cheddar, Medium                          1     Nã     $23,25
+Total de valores listados                                             $ 646,84
+
+
+
+
+
+                         Listagem de produtos                         página  9
+Código Descrição                                        Setor Estoque? Preço
+
+00569   Cheese - Cheddar, Medium                          4     Nã     $52,52
+05616   Cheese - Comte                                    5     Nã     $24,81
+69097   Cheese - Ermite Bleu                              1     Nã     $64,99
+55251   Cheese - La Sauvagine                             3     Sim     $70,41
+19556   Cheese - Le Cru Du Clocher                        5     Nã     $ 9,48
+76175   Cheese - Mascarpone                               1     Sim     $45,89
+94497   Cheese - Mozzarella, Buffalo                      1     Sim     $19,82
+24552   Cheese - Pont Couvert                             1     Sim     $14,91
+09604   Cheese - Provolone                                3     Sim     $98,35
+13919   Cheese - Woolwich Goat, Log                       5     Sim     $19,42
+Total de valores listados                                             $ 420,60
+
+
+
+
+
+                         Listagem de produtos                         página 10
+Código Descrição                                        Setor Estoque? Preço
+
+73762   Cheese Cheddar Processed                          2     Sim     $89,76
+89391   Cheese Cloth No 60                                5     Nã     $ 5,22
+43715   Cherries - Bing, Canned                           4     Sim     $48,00
+37198   Cherries - Fresh                                  5     Sim     $13,24
+22900   Chestnuts - Whole,canned                          5     Sim     $55,63
+61808   Chicken - Leg, Fresh                              3     Sim     $76,14
+65207   Chicken - Livers                                  1     Sim     $ 7,44
+40685   Chicken - Soup Base                               5     Nã     $64,17
+88396   Chicken - White Meat, No Tender                   2     Nã     $85,58
+83197   Chicken - Whole                                   1     Nã     $66,16
+Total de valores listados                                             $ 511,34
+
+
+
+
+
+                         Listagem de produtos                         página 11
+Código Descrição                                        Setor Estoque? Preço
+
+62864   Chicken Breast Halal                              3     Nã     $30,14
+89767   Chips Potato Swt Chilli Sour                      2     Sim     $31,32
+86108   Chivas Regal - 12 Year Old                        1     Sim     $60,23
+01264   Chocolate - Dark Callets                          5     Nã     $39,23
+07843   Chocolate - Pistoles, White                       4     Nã     $ 0,09
+26903   Chocolate Bar - Oh Henry                          5     Nã     $33,92
+27108   Chocolate Liqueur - Godet White                   2     Sim     $67,35
+02536   Cloves - Whole                                    2     Sim     $34,34
+94750   Coconut - Shredded, Sweet                         2     Nã     $ 2,06
+11309   Coffee - 10oz Cup 92961                           5     Nã     $36,70
+Total de valores listados                                             $ 335,38
+
+
+
+
+
+                         Listagem de produtos                         página 12
+Código Descrição                                        Setor Estoque? Preço
+
+91264   Coffee - 10oz Cup 92961                           1     Nã     $87,45
+26606   Coffee - Irish Cream                              5     Sim     $43,88
+43197   Coffee - Ristretto Coffee Capsule                 4     Sim     $75,39
+14678   Coffee Beans - Chocolate                          2     Nã     $71,66
+98970   Compound - Passion Fruit                          4     Sim     $91,26
+03148   Compound - Pear                                   3     Sim     $82,85
+95752   Compound - Strawberry                             1     Nã     $93,36
+82128   Containter - 3oz Microwave Rect.                  3     Nã     $36,20
+05997   Cookies - Fortune                                 3     Sim     $57,35
+69148   Cookies Cereal Nut                                4     Sim     $85,91
+Total de valores listados                                             $ 725,31
+
+
+
+
+
+                         Listagem de produtos                         página 13
+Código Descrição                                        Setor Estoque? Preço
+
+40957   Corn - Cream, Canned                              1     Nã     $ 4,95
+75521   Corn Syrup                                        2     Nã     $87,41
+23355   Crab - Dungeness, Whole, live                     2     Sim     $85,30
+77352   Crab - Soft Shell                                 3     Sim     $67,80
+78746   Crackers - Soda / Saltins                         1     Sim     $97,15
+50180   Crackers - Soda / Saltins                         1     Sim     $94,07
+61437   Crackers - Soda / Saltins                         3     Nã     $51,99
+28709   Cream - 10%                                       5     Sim     $83,83
+50417   Creme De Cacao White                              5     Sim     $ 3,11
+24896   Creme De Cacao White                              3     Sim     $52,54
+Total de valores listados                                             $ 628,15
+
+
+
+
+
+                         Listagem de produtos                         página 14
+Código Descrição                                        Setor Estoque? Preço
+
+92713   Creme De Menthe Green                             4     Sim     $65,91
+89316   Croissants Thaw And Serve                         4     Sim     $ 5,61
+15491   Cucumber - English                                5     Nã     $68,07
+87925   Cumin - Ground                                    1     Nã     $15,79
+97473   Cup Translucent 9 Oz                              2     Nã     $39,28
+91115   Curry Powder Madras                               1     Sim     $40,19
+33273   Dates                                             2     Sim     $49,71
+49393   Daves Island Stinger                              3     Sim     $49,34
+73509   Dawn Professionl Pot And Pan                      1     Sim     $17,46
+00760   Devonshire Cream                                  5     Nã     $48,42
+Total de valores listados                                             $ 399,78
+
+
+
+
+
+                         Listagem de produtos                         página 15
+Código Descrição                                        Setor Estoque? Preço
+
+08243   Dill Weed - Dry                                   4     Sim     $60,39
+13025   Dish Towel                                        4     Nã     $74,91
+47801   Duck - Fat                                        5     Nã     $24,25
+25801   Ecolab - Hand Soap Form Antibac                   5     Sim     $ 3,18
+28182   Ecolab - Hobart Washarm End Cap                   4     Nã     $60,75
+60250   Ecolab - Power Fusion                             4     Sim     $40,13
+20926   Ecolab - Solid Fusion                             4     Nã     $98,75
+45124   Ecolab Silver Fusion                              1     Sim     $52,26
+90545   Eggplant - Baby                                   4     Nã     $75,30
+53529   Eggplant Oriental                                 5     Sim     $89,25
+Total de valores listados                                             $ 579,17
+
+
+
+
+
+                         Listagem de produtos                         página 16
+Código Descrição                                        Setor Estoque? Preço
+
+21686   Eggs - Extra Large                                2     Nã     $90,58
+81133   Eggwhite Frozen                                   3     Sim     $13,88
+99552   Evaporated Milk - Skim                            5     Sim     $21,60
+22379   Extract - Almond                                  3     Sim     $16,91
+29030   Ezy Change Mophandle                              5     Nã     $39,78
+11111   Fiambre Crudo - Spanish Taste                     1     Sim     $48,88
+47723   Flavouring - Rum                                  4     Sim     $49,96
+36297   Flour - Pastry                                    1     Sim     $23,23
+69643   Flour - So Mix Cake White                         4     Sim     $93,83
+83357   Flour - Strong                                    4     Sim     $82,04
+Total de valores listados                                             $ 480,69
+
+
+
+
+
+                         Listagem de produtos                         página 17
+Código Descrição                                        Setor Estoque? Preço
+
+83589   Flower - Commercial Bronze                        3     Sim     $82,51
+83053   Flower - Commercial Bronze                        5     Nã     $19,89
+85855   Flower - Dish Garden                              5     Nã     $96,61
+95214   Flower - Dish Garden                              5     Sim     $57,29
+96616   Foam Tray S2                                      2     Sim     $85,12
+30779   Foam Tray S2                                      3     Sim     $60,49
+48918   Foie Gras                                         1     Sim     $30,11
+47207   Foil - Round Foil                                 1     Sim     $32,26
+53847   Foil - Round Foil                                 2     Sim     $36,74
+26296   Fond - Neutral                                    2     Nã     $18,72
+Total de valores listados                                             $ 519,74
+
+
+
+
+
+                         Listagem de produtos                         página 18
+Código Descrição                                        Setor Estoque? Preço
+
+59186   Food Colouring - Green                            2     Sim     $59,88
+31681   French Pastries                                   3     Nã     $46,97
+33405   Fruit Mix - Light                                 4     Nã     $29,85
+88375   Galliano                                          5     Nã     $33,72
+27313   Garbage Bags - Black                              2     Nã     $37,54
+06133   Garlic                                            3     Sim     $47,80
+07871   Garlic - Primerba, Paste                          2     Sim     $64,95
+10447   Gatorade - Orange                                 3     Nã     $25,89
+88390   Gatorade - Orange                                 3     Sim     $63,24
+52681   Gelatine Leaves - Bulk                            2     Sim     $32,54
+Total de valores listados                                             $ 442,38
+
+
+
+
+
+                         Listagem de produtos                         página 19
+Código Descrição                                        Setor Estoque? Preço
+
+46164   General Purpose Trigger                           5     Nã     $ 5,92
+94786   Gin - Gilbeys London, Dry                         1     Sim     $61,62
+51912   Ginger - Ground                                   4     Nã     $12,22
+87359   Glass - Wine, Plastic, Clear 5 Oz                 4     Nã     $37,10
+71151   Glass Clear 8 Oz                                  5     Sim     $20,65
+15648   Glaze - Apricot                                   1     Sim     $40,93
+04054   Glucose                                           4     Sim     $ 1,05
+34931   Goat - Leg                                        4     Sim     $34,69
+87788   Grand Marnier                                     5     Sim     $75,73
+92283   Grenadillo                                        1     Nã     $89,59
+Total de valores listados                                             $ 379,50
+
+
+
+
+
+                         Listagem de produtos                         página 20
+Código Descrição                                        Setor Estoque? Preço
+
+05528   Guava                                             1     Nã     $62,86
+05594   Haggis                                            4     Sim     $89,40
+60911   Ham - Proscuitto                                  1     Sim     $47,24
+17953   Ham - Virginia                                    1     Sim     $ 8,15
+59972   Ham Black Forest                                  2     Nã     $49,66
+43497   Hand Towel                                        1     Nã     $66,70
+30541   Huck White Towels                                 4     Nã     $34,11
+00578   Ice Cream Bar - Oreo Sandwich                     1     Sim     $ 7,77
+63030   Icecream - Dstk Strw Chseck                       2     Nã     $87,66
+37334   Icecream - Dstk Super Cone                        2     Sim     $57,33
+Total de valores listados                                             $ 510,88
+
+
+
+
+
+                         Listagem de produtos                         página 21
+Código Descrição                                        Setor Estoque? Preço
+
+66778   Icecream Bar - Del Monte                          3     Sim     $96,99
+24638   Irish Cream - Baileys                             3     Sim     $78,95
+03309   Island Oasis - Raspberry                          2     Nã     $65,43
+81344   Island Oasis - Strawberry                         2     Sim     $56,42
+30211   Jam - Raspberry,jar                               2     Nã     $70,60
+20402   Jolt Cola                                         1     Sim     $18,29
+08582   Jolt Cola - Electric Blue                         2     Sim     $15,87
+60793   Juice - Grapefruit, 341 Ml                        4     Nã     $63,59
+62431   Juice - Tomato, 48 Oz                             4     Sim     $33,03
+83376   Juice - V8, Tomato                                2     Nã     $65,14
+Total de valores listados                                             $ 564,31
+
+
+
+
+
+                         Listagem de produtos                         página 22
+Código Descrição                                        Setor Estoque? Preço
+
+01278   Kahlua                                            5     Sim     $ 5,78
+82575   Kellogs Raisan Bran Bars                          4     Nã     $49,17
+60547   Knife Plastic - White                             2     Nã     $60,10
+25974   Lamb - Bones                                      3     Nã     $41,51
+96824   Lamb - Shanks                                     3     Sim     $74,15
+85817   Lamb Rack - Ontario                               2     Nã     $93,42
+44632   Latex Rubber Gloves Size 9                        5     Nã     $ 1,51
+74568   Lemon Grass                                       3     Sim     $30,87
+48972   Lemonade - Kiwi, 591 Ml                           2     Nã     $49,51
+91334   Lemonade - Natural, 591 Ml                        1     Sim     $52,32
+Total de valores listados                                             $ 458,34
+
+
+
+
+
+                         Listagem de produtos                         página 23
+Código Descrição                                        Setor Estoque? Preço
+
+74763   Lettuce - Arugula                                 2     Nã     $12,03
+36659   Lettuce - Curly Endive                            5     Sim     $81,70
+36084   Lettuce - Frisee                                  4     Sim     $12,90
+35995   Lettuce - Lambs Mash                              1     Nã     $80,15
+38523   Lettuce Romaine Chopped                           2     Nã     $18,32
+53601   Lid - 0090 Clear                                  1     Sim     $54,59
+14888   Lid Coffee Cup 8oz Blk                            1     Nã     $39,68
+92540   Liqueur - Melon                                   5     Sim     $48,12
+75859   Lobster - Canned Premium                          2     Sim     $99,63
+75594   Long Island Ice Tea                               5     Nã     $75,07
+Total de valores listados                                             $ 522,19
+
+
+
+
+
+                         Listagem de produtos                         página 24
+Código Descrição                                        Setor Estoque? Preço
+
+51029   Longos - Cheese Tortellini                        2     Nã     $41,29
+73779   Longos - Chicken Caeser Salad                     4     Sim     $15,42
+02476   Longos - Chicken Wings                            1     Sim     $32,98
+76543   Mace Ground                                       3     Nã     $64,71
+05719   Mangoes                                           5     Sim     $74,65
+95086   Mcguinness - Blue Curacao                         5     Nã     $22,42
+19282   Meldea Green Tea Liquor                           3     Sim     $93,76
+02812   Milk - Chocolate 500ml                            4     Nã     $70,04
+25589   Milk - Condensed                                  1     Nã     $94,64
+24176   Milk - Homo                                       2     Nã     $95,50
+Total de valores listados                                             $ 605,41
+
+
+
+
+
+                         Listagem de produtos                         página 25
+Código Descrição                                        Setor Estoque? Preço
+
+83239   Milk 2% 500 Ml                                    3     Nã     $ 2,09
+85036   Mix Pina Colada                                   4     Sim     $90,58
+38426   Mountain Dew                                      2     Nã     $22,57
+17615   Mousse - Banana Chocolate                         2     Nã     $32,06
+98143   Mousse - Mango                                    2     Sim     $78,28
+26053   Mousse - Mango                                    2     Sim     $ 0,46
+24521   Mudslide                                          4     Nã     $ 4,21
+93265   Mudslide                                          2     Nã     $28,25
+56642   Muffin - Mix - Strawberry Rhubarb                 3     Sim     $74,90
+32946   Muffin - Mix - Strawberry Rhubarb                 2     Nã     $ 5,71
+Total de valores listados                                             $ 339,11
+
+
+
+
+
+                         Listagem de produtos                         página 26
+Código Descrição                                        Setor Estoque? Preço
+
+59972   Muffin Batt - Choc Chk                            3     Sim     $67,66
+66356   Muffin Batt - Choc Chk                            2     Sim     $49,90
+35790   Muffin Carrot - Individual                        1     Nã     $36,11
+08308   Muffin Hinge 117n                                 1     Sim     $13,66
+09079   Muffin Mix - Blueberry                            5     Nã     $62,25
+84076   Muffins - Assorted                                2     Sim     $45,80
+06892   Mushroom - Shitake, Dry                           2     Sim     $33,00
+06386   Mushroom - Shitake, Dry                           5     Nã     $21,90
+84233   Mustard - Individual Pkg                          3     Sim     $28,37
+97507   Myers Planters Punch                              1     Sim     $28,21
+Total de valores listados                                             $ 386,86
+
+
+
+
+
+                         Listagem de produtos                         página 27
+Código Descrição                                        Setor Estoque? Preço
+
+56569   Napkin - Beverage 1 Ply                           4     Nã     $40,37
+25115   Nori Sea Weed - Gold Label                        5     Nã     $17,43
+17808   Nut - Walnut, Chopped                             2     Sim     $25,24
+93701   Ocean Spray - Kiwi Strawberry                     2     Nã     $24,16
+73830   Ocean Spray - Ruby Red                            4     Nã     $11,31
+06965   Ocean Spray - Ruby Red                            2     Nã     $68,43
+63280   Octopus - Baby, Cleaned                           3     Nã     $ 1,99
+39691   Oil - Avocado                                     2     Nã     $94,95
+32318   Oil - Coconut                                     3     Nã     $27,73
+63311   Oil - Cooking Spray                               2     Nã     $89,85
+Total de valores listados                                             $ 401,46
+
+
+
+
+
+                         Listagem de produtos                         página 28
+Código Descrição                                        Setor Estoque? Preço
+
+25773   Oil - Safflower                                   5     Sim     $80,60
+69063   Oil - Safflower                                   5     Sim     $56,00
+18629   Oil - Sunflower                                   2     Sim     $52,75
+32653   Oil - Truffle, White                              1     Sim     $39,12
+57388   Okra                                              2     Nã     $78,26
+02584   Olive - Spread Tapenade                           1     Sim     $ 1,65
+81396   Oneshot Automatic Soap System                     1     Nã     $48,09
+72531   Onion - Dried                                     4     Nã     $31,41
+65848   Onions - Dried, Chopped                           5     Sim     $ 3,18
+86931   Onions - White                                    5     Sim     $18,14
+Total de valores listados                                             $ 409,20
+
+
+
+
+
+                         Listagem de produtos                         página 29
+Código Descrição                                        Setor Estoque? Preço
+
+64421   Orange Roughy 4/6 Oz                              5     Sim     $42,18
+85557   Oranges                                           4     Sim     $83,62
+87722   Oranges - Navel, 72                               2     Sim     $75,21
+14847   Oregano - Fresh                                   1     Nã     $47,09
+23557   Oyster - In Shell                                 4     Sim     $17,39
+49948   Pail - 15l White, With Handle                     4     Sim     $29,78
+15422   Pail With Metal Handle 16l White                  2     Nã     $32,46
+21413   Paper Cocktail Umberlla 80 - 180                  1     Sim     $97,72
+95572   Paper Towel Touchless                             3     Nã     $51,09
+97588   Parsley - Dried                                   1     Nã     $72,16
+Total de valores listados                                             $ 548,70
+
+
+
+
+
+                         Listagem de produtos                         página 30
+Código Descrição                                        Setor Estoque? Preço
+
+55120   Passion Fruit                                     2     Nã     $60,20
+72572   Pasta - Detalini, White, Fresh                    3     Sim     $28,65
+71678   Pasta - Fusili Tri - Coloured                     2     Sim     $59,10
+44973   Pastrami                                          2     Sim     $27,77
+40723   Pastry - Cheese Baked Scones                      1     Sim     $57,66
+48821   Pastry - Chocolate Chip Muffin                    5     Sim     $31,69
+78490   Pastry - Chocolate Chip Muffin                    5     Sim     $37,57
+93428   Pears - Bosc                                      2     Sim     $39,85
+33705   Pectin                                            3     Nã     $45,17
+23686   Pepper - Chilli Seeds Mild                        2     Nã     $18,63
+Total de valores listados                                             $ 406,29
+
+
+
+
+
+                         Listagem de produtos                         página 31
+Código Descrição                                        Setor Estoque? Preço
+
+62025   Pepper - Gypsy Pepper                             2     Sim     $60,08
+57026   Pepper - Jalapeno                                 5     Sim     $86,61
+92440   Pepper - Pablano                                  4     Nã     $69,24
+72028   Pepper - White, Whole                             1     Sim     $18,98
+29395   Piping Jelly - All Colours                        2     Sim     $73,67
+11390   Plasticforkblack                                  1     Sim     $ 2,03
+22868   Plasticspoonblack                                 1     Nã     $31,79
+51295   Plate - Foam, Bread And Butter                    5     Sim     $88,68
+02229   Pop Shoppe Cream Soda                             5     Nã     $95,35
+44333   Pork - Chop, Frenched                             1     Sim     $ 2,83
+Total de valores listados                                             $ 529,26
+
+
+
+
+
+                         Listagem de produtos                         página 32
+Código Descrição                                        Setor Estoque? Preço
+
+23174   Pork - Kidney                                     4     Nã     $65,87
+44839   Pork - Loin, Bone - In                            2     Sim     $64,23
+10433   Pork - Smoked Kassler                             3     Nã     $28,14
+04320   Potatoes - Fingerling 4 Oz                        2     Sim     $43,90
+56984   Potatoes - Idaho 80 Count                         3     Sim     $80,47
+46227   Potatoes - Parissienne                            1     Nã     $47,32
+79953   Prunes - Pitted                                   4     Nã     $96,98
+01139   Pumpkin - Seed                                    5     Nã     $23,36
+80127   Puree - Raspberry                                 1     Sim     $10,61
+75801   Puree - Raspberry                                 5     Nã     $66,84
+Total de valores listados                                             $ 527,72
+
+
+
+
+
+                         Listagem de produtos                         página 33
+Código Descrição                                        Setor Estoque? Preço
+
+81587   Quail - Jumbo Boneless                            2     Sim     $11,77
+12843   Quail - Whole, Bone - In                          4     Sim     $76,36
+63345   Rabbit - Legs                                     1     Nã     $74,92
+99675   Raisin - Golden                                   2     Sim     $88,77
+26556   Ranchero - Primerba, Paste                        4     Sim     $11,73
+55135   Red Snapper - Fillet, Skin On                     1     Nã     $ 1,76
+49984   Rice - Aborio                                     5     Nã     $81,97
+49217   Roe - White Fish                                  1     Sim     $92,78
+39196   Rosemary - Dry                                    5     Sim     $66,35
+65753   Rum - Mount Gay Eclipes                           3     Nã     $25,50
+Total de valores listados                                             $ 531,91
+
+
+
+
+
+                         Listagem de produtos                         página 34
+Código Descrição                                        Setor Estoque? Preço
+
+47112   Russian Prince                                    4     Nã     $15,02
+81961   Sage - Rubbed                                     4     Sim     $ 5,44
+49284   Salad Dressing                                    4     Sim     $11,95
+32241   Salmon - Atlantic, No Skin                        5     Nã     $46,40
+61088   Salmon - Fillets                                  4     Nã     $88,44
+03858   Salmon Atl.whole 8 - 10 Lb                        1     Sim     $56,25
+03081   Salt And Pepper Mix - White                       4     Sim     $44,05
+23189   Sardines                                          3     Nã     $26,43
+76457   Sauce - Hollandaise                               5     Nã     $43,42
+10991   Sauce - Ranch Dressing                            1     Nã     $14,48
+Total de valores listados                                             $ 351,88
+
+
+
+
+
+                         Listagem de produtos                         página 35
+Código Descrição                                        Setor Estoque? Preço
+
+00010   Sauce - White, Mix                                5     Nã     $47,46
+94499   Sauce Tomato Pouch                                5     Sim     $83,03
+33440   Sausage - Breakfast                               2     Sim     $95,12
+34295   Scallop - St. Jaques                              5     Nã     $29,85
+22538   Scallops - 10/20                                  1     Sim     $91,97
+13603   Scallops - In Shell                               4     Sim     $ 1,01
+29078   Schnappes Peppermint - Walker                     2     Nã     $32,45
+99232   Sea Urchin                                        3     Sim     $38,15
+91985   Shopper Bag - S - 4                               3     Nã     $58,33
+72475   Shopper Bag - S - 4                               5     Nã     $82,46
+Total de valores listados                                             $ 559,83
+
+
+
+
+
+                         Listagem de produtos                         página 36
+Código Descrição                                        Setor Estoque? Preço
+
+95920   Shrimp - 16 - 20 Cooked, Peeled                   5     Nã     $88,25
+46829   Shrimp - 16/20, Iqf, Shell On                     2     Sim     $80,03
+74007   Shrimp - 16/20, Peeled Deviened                   2     Sim     $50,59
+90270   Shrimp - Baby, Cold Water                         2     Nã     $39,39
+45517   Shrimp - Baby, Cold Water                         5     Nã     $34,85
+64162   Shrimp - Black Tiger 13/15                        1     Sim     $90,54
+58671   Shrimp - Black Tiger 16/20                        3     Nã     $92,80
+83187   Shrimp - Black Tiger 6 - 8                        2     Nã     $ 6,87
+05942   Shrimp - Prawn                                    4     Sim     $33,49
+13848   Smirnoff Green Apple Twist                        3     Sim     $23,68
+Total de valores listados                                             $ 540,49
+
+
+
+
+
+                         Listagem de produtos                         página 37
+Código Descrição                                        Setor Estoque? Preço
+
+50901   Soap - Mr.clean Floor Soap                        3     Nã     $27,35
+97283   Sobe - Tropical Energy                            2     Sim     $34,49
+57593   Soup - Beef, Base Mix                             4     Nã     $29,17
+57222   Soup - Campbells Tomato Ravioli                   5     Nã     $32,41
+94151   Soup - Campbells, Spinach Crm                     2     Sim     $14,66
+39219   Soup - Canadian Pea, Dry Mix                      2     Nã     $43,56
+99181   Soup - Chicken And Wild Rice                      4     Sim     $48,75
+70648   Soup - Knorr, Chicken Gumbo                       3     Nã     $91,30
+20550   Soup - Knorr, Veg / Beef                          4     Nã     $94,63
+48128   Soup Campbells - Tomato Bisque                    3     Nã     $89,69
+Total de valores listados                                             $ 506,01
+
+
+
+
+
+                         Listagem de produtos                         página 38
+Código Descrição                                        Setor Estoque? Preço
+
+92255   Spice - Montreal Steak Spice                      3     Sim     $56,90
+40722   Spinach - Packaged                                5     Nã     $10,12
+86384   Sping Loaded Cup Dispenser                        2     Sim     $ 2,83
+45160   Sprite, Diet - 355ml                              2     Nã     $58,68
+05592   Sprouts - Alfalfa                                 2     Sim     $31,64
+71405   Sprouts - Baby Pea Tendrils                       4     Sim     $55,68
+50401   Sprouts - Onion                                   1     Nã     $86,82
+38124   Sprouts - Pea                                     2     Sim     $77,22
+76616   Sprouts Dikon                                     2     Sim     $98,50
+03911   Sprouts Dikon                                     2     Nã     $ 4,54
+Total de valores listados                                             $ 482,93
+
+
+
+
+
+                         Listagem de produtos                         página 39
+Código Descrição                                        Setor Estoque? Preço
+
+81905   Sproutsmustard Cress                              2     Sim     $49,74
+58265   Sproutsmustard Cress                              1     Nã     $28,61
+68165   Squash - Acorn                                    3     Nã     $36,57
+72502   Squash - Butternut                                4     Nã     $61,39
+19173   Squash - Pepper                                   3     Nã     $50,17
+57127   Squash - Sunburst                                 4     Sim     $68,66
+33496   Squid - Tubes / Tenticles 10/20                   2     Nã     $48,03
+52110   Steampan Lid                                      3     Sim     $93,11
+42737   Stock - Beef, Brown                               4     Sim     $23,44
+81929   Stock - Fish                                      2     Sim     $20,10
+Total de valores listados                                             $ 479,82
+
+
+
+
+
+                         Listagem de produtos                         página 40
+Código Descrição                                        Setor Estoque? Preço
+
+38543   Sugar - Brown, Individual                         1     Nã     $67,61
+87561   Sugar - Cubes                                     2     Sim     $62,30
+98794   Sugar - Cubes                                     5     Nã     $28,13
+63778   Sugar - Fine                                      3     Sim     $38,77
+58643   Sugar - Palm                                      4     Nã     $85,70
+13197   Swiss Chard - Red                                 5     Nã     $95,23
+55407   Syrup - Golden, Lyles                             3     Nã     $91,39
+06787   Syrup - Monin - Granny Smith                      3     Sim     $ 5,40
+93559   Syrup - Monin, Irish Cream                        1     Nã     $78,55
+53573   Syrup - Monin, Irish Cream                        1     Nã     $47,82
+Total de valores listados                                             $ 600,90
+
+
+
+
+
+                         Listagem de produtos                         página 41
+Código Descrição                                        Setor Estoque? Preço
+
+97697   Table Cloth 120 Round White                       5     Sim     $32,41
+40654   Table Cloth 120 Round White                       4     Sim     $33,64
+73271   Table Cloth 53x69 White                           4     Nã     $ 4,62
+26891   Tart - Butter Plain Squares                       3     Nã     $12,87
+69128   Tart Shells - Savory, 4                           2     Nã     $97,85
+37279   Tart Shells - Sweet, 2                            1     Nã     $20,37
+24819   Tart Shells - Sweet, 4                            1     Sim     $49,96
+72394   Tart Shells - Sweet, 4                            1     Sim     $24,90
+98938   Tea - Grapefruit Green Tea                        5     Nã     $ 8,50
+76975   Tea Leaves - Oolong                               5     Sim     $76,90
+Total de valores listados                                             $ 362,02
+
+
+
+
+
+                         Listagem de produtos                         página 42
+Código Descrição                                        Setor Estoque? Preço
+
+21646   Tequila Rose Cream Liquor                         4     Sim     $16,52
+14361   Tomatillo                                         5     Nã     $97,96
+50019   Tomato - Plum With Basil                          4     Sim     $28,13
+51469   Tomato - Plum With Basil                          1     Sim     $80,46
+63663   Toothpick Frilled                                 2     Nã     $61,26
+40141   Tray - 16in Rnd Blk                               4     Sim     $30,44
+81475   Trout - Hot Smkd, Dbl Fillet                      3     Sim     $90,62
+71382   True - Vue Containers                             3     Nã     $64,86
+74348   Tuna - Salad Premix                               2     Nã     $39,00
+31621   Tuna - Salad Premix                               4     Sim     $56,85
+Total de valores listados                                             $ 566,10
+
+
+
+
+
+                         Listagem de produtos                         página 43
+Código Descrição                                        Setor Estoque? Preço
+
+91136   Tuna - Sushi Grade                                1     Sim     $ 9,64
+58395   Turkey Tenderloin Frozen                          4     Sim     $ 6,63
+75382   Turkey Tenderloin Frozen                          2     Nã     $97,76
+23009   Turnip - White, Organic                           3     Nã     $35,53
+92895   V8 Splash Strawberry Banana                       1     Nã     $49,57
+46557   Vaccum Bag - 14x20                                2     Nã     $42,68
+79932   Veal - Bones                                      2     Sim     $65,89
+08640   Veal - Bones                                      3     Sim     $23,20
+05885   Veal - Inside, Choice                             1     Sim     $38,83
+63582   Veal - Insides Provini                            4     Nã     $37,32
+Total de valores listados                                             $ 407,05
+
+
+
+
+
+                         Listagem de produtos                         página 44
+Código Descrição                                        Setor Estoque? Preço
+
+23680   Veal - Knuckle                                    5     Sim     $79,44
+69573   Veal - Liver                                      4     Sim     $70,41
+13947   Veal - Loin                                       5     Sim     $22,53
+25418   Veal - Provimi Inside                             4     Nã     $70,49
+02801   Veal - Round, Eye Of                              3     Nã     $63,99
+37550   Veal - Striploin                                  2     Sim     $60,04
+19789   Vegetable - Base                                  2     Sim     $41,99
+68585   Venison - Denver Leg Boneless                     3     Sim     $94,38
+06877   Venison - Ground                                  4     Sim     $84,61
+71864   Vermouth - White, Cinzano                         4     Nã     $ 1,94
+Total de valores listados                                             $ 589,82
+
+
+
+
+
+                         Listagem de produtos                         página 45
+Código Descrição                                        Setor Estoque? Preço
+
+56776   Vinegar - Champagne                               2     Sim     $ 9,94
+89034   Vinegar - Cider                                   3     Nã     $70,52
+35442   Water - Perrier                                   1     Sim     $35,22
+65668   Water - Spring Water, 355 Ml                      2     Nã     $ 6,85
+69975   Whmis Spray Bottle Graduated                      5     Sim     $93,60
+88596   Wiberg Cure                                       5     Nã     $22,86
+33029   Wine - Balbach Riverside                          3     Nã     $77,78
+06299   Wine - Beringer Founders Estate                   3     Nã     $28,14
+32844   Wine - Black Tower Qr                             1     Nã     $68,84
+84021   Wine - Bourgogne 2002, La                         5     Sim     $58,64
+Total de valores listados                                             $ 472,39
+
+
+
+
+
+                         Listagem de produtos                         página 46
+Código Descrição                                        Setor Estoque? Preço
+
+25971   Wine - Casillero Del Diablo                       2     Nã     $22,65
+95734   Wine - Cave Springs Dry Riesling                  5     Nã     $16,07
+04231   Wine - Chardonnay Mondavi                         2     Nã     $27,40
+93017   Wine - Chateau Aqueria Tavel                      3     Nã     $81,42
+58119   Wine - Chianti Classica Docg                      5     Sim     $62,07
+91383   Wine - Conde De Valdemar                          3     Nã     $10,73
+02085   Wine - Cotes Du Rhone                             3     Sim     $37,00
+08143   Wine - Ej Gallo Sonoma                            1     Sim     $ 2,94
+14629   Wine - Fontanafredda Barolo                       2     Sim     $19,43
+36524   Wine - George Duboeuf Rose                        5     Sim     $10,69
+Total de valores listados                                             $ 290,40
+
+
+
+
+
+                         Listagem de produtos                         página 47
+Código Descrição                                        Setor Estoque? Preço
+
+89603   Wine - Gewurztraminer Pierre                      3     Sim     $58,44
+04173   Wine - Jaboulet Cotes Du Rhone                    3     Sim     $74,03
+84855   Wine - Jafflin Bourgongone                        1     Sim     $ 9,04
+05214   Wine - Kwv Chenin Blanc South                     3     Nã     $91,31
+83425   Wine - Magnotta - Bel Paese White                 1     Nã     $ 7,42
+60032   Wine - Magnotta - Cab Sauv                        5     Sim     $51,42
+21411   Wine - Magnotta - Pinot Gris Sr                   2     Sim     $85,37
+60033   Wine - Niagara Peninsula Vqa                      4     Sim     $67,17
+84158   Wine - Periguita Fonseca                          2     Nã     $25,37
+71426   Wine - Pinot Grigio Collavini                     5     Sim     $14,25
+Total de valores listados                                             $ 483,82
+
+
+
+
+
+                         Listagem de produtos                         página 48
+Código Descrição                                        Setor Estoque? Preço
+
+98128   Wine - Pinot Noir Mondavi Coastal                 3     Nã     $ 0,38
+09032   Wine - Pinot Noir Pond Haddock                    5     Sim     $23,76
+02286   Wine - Piper Heidsieck Brut                       3     Nã     $42,69
+00237   Wine - Placido Pinot Grigo                        4     Nã     $ 7,84
+57576   Wine - Port Late Bottled Vintage                  5     Sim     $54,48
+48238   Wine - Red, Black Opal Shiraz                     3     Nã     $75,40
+50686   Wine - Red, Colio Cabernet                        2     Nã     $86,84
+35182   Wine - Red, Gallo, Merlot                         3     Sim     $53,82
+96730   Wine - Red, Gamay Noir                            5     Nã     $42,70
+74182   Wine - Red, Mouton Cadet                          3     Sim     $ 1,46
+Total de valores listados                                             $ 389,37
+
+
+
+
+
+                         Listagem de produtos                         página 49
+Código Descrição                                        Setor Estoque? Preço
+
+30883   Wine - Red, Pelee Island Merlot                   3     Nã     $38,76
+82649   Wine - Remy Pannier Rose                          3     Sim     $79,88
+12426   Wine - Rosso Toscano Igt                          5     Nã     $32,58
+66493   Wine - Savigny - Les - Beaune                     1     Nã     $ 5,82
+53975   Wine - Segura Viudas Aria Brut                    5     Sim     $92,13
+01055   Wine - Sherry Dry Sack, William                   2     Sim     $46,50
+24545   Wine - Sherry Dry Sack, William                   4     Sim     $16,86
+22132   Wine - Sogrape Mateus Rose                        4     Nã     $83,10
+82427   Wine - Sogrape Mateus Rose                        3     Nã     $31,25
+70492   Wine - Tio Pepe Sherry Fino                       5     Sim     $93,10
+Total de valores listados                                             $ 519,98
+
+
+
+
+
+                         Listagem de produtos                         página 50
+Código Descrição                                        Setor Estoque? Preço
+
+58385   Wine - Trimbach Pinot Blanc                       1     Sim     $49,33
+27521   Wine - Valpolicella Masi                          1     Nã     $55,79
+75680   Wine - White, Chardonnay                          3     Sim     $75,56
+70928   Wine - White, Colubia Cresh                       5     Nã     $27,36
+84895   Wine - White, Cooking                             3     Sim     $35,67
+74938   Wine - White, Ej Gallo                            5     Nã     $75,64
+13778   Wood Chips - Regular                              5     Nã     $10,00
+93598   Yoghurt Tubes                                     3     Sim     $62,04
+52875   Yoplait - Strawbrasp Peac                         4     Nã     $10,00

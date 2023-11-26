@@ -1,0 +1,23 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. PrintToLPT1.
+       
+       ENVIRONMENT DIVISION.
+       INPUT-OUTPUT SECTION.
+       FILE-CONTROL.
+           SELECT PRINTER-FILE ASSIGN TO "LPT1"
+               ORGANIZATION IS LINE SEQUENTIAL.
+       
+       DATA DIVISION.
+       FILE SECTION.
+       FD PRINTER-FILE.
+       01 PRINT-LINE      PIC X(80).
+       
+       WORKING-STORAGE SECTION.
+       01 WS-TEXT   PIC X(80) VALUE "Teste de impressao na porta LPT1".
+       
+       PROCEDURE DIVISION.
+           OPEN OUTPUT PRINTER-FILE.
+           MOVE WS-TEXT TO PRINT-LINE.
+           WRITE PRINT-LINE.
+           CLOSE PRINTER-FILE.
+           STOP RUN.

@@ -1,0 +1,13 @@
+
+
+26/11/23            RELATORIO DE NOTAS                                  PAG.   1
+Matric.  Nome do aluno                           Media
+
+000000   Aluno teste 1                            8,5
+000000   Aluno teste 2                           10,0
+000000   Aluno teste 3                            7,5
+000000   Aluno teste 4                            9,7
+000000   Aluno teste 5                            3,2
+26/11/23            RELATORIO DE NOTAS                                  PAG.   1
+Matric.  Nome do aluno                           Media
+
